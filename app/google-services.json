@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457414014664",
+    "project_id": "rumpur-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457414014664:android:a33ba803446a7cd5",
+        "android_client_info": {
+          "package_name": "com.rumpur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457414014664-aovqcomjp7c3hjdiq0023njdrkkic3t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rumpur",
+            "certificate_hash": "db2945572d9eeb7fe6b24eb1b1d8dfcad939e338"
+          }
+        },
+        {
+          "client_id": "457414014664-24d0im4dn7n3e70hpttvj98hpoc38l22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0a_Yy-PuddZFx_zPphAd06w2K6JRueOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
